@@ -1,0 +1,27 @@
+{
+    "name": "POMCHI Token",
+    "symbol": "POMCHI",
+    "description": "POMCHI is a meme token with a total supply of 69 billion.",
+    "seller_fee_basis_points": 0, 
+    "image": "https://example.com/images/pomchi.png", 
+    "external_url": "https://pomchi.io", 
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Meme"
+      },
+      {
+        "trait_type": "Utility",
+        "value": "Token"
+      }
+    ],
+    "properties": {
+      "creators": [
+        {
+          "address": "5Jz9nrQDYdN55976yFmtF7tiLnvcELLKuTxD51DtPhFm",  
+          "share": 100 
+        }
+      ]
+    }
+  }
+  
